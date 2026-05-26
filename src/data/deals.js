@@ -1,0 +1,42 @@
+export const flashDeals = [
+  {
+    id: 1,
+    title: 'Summer Clearance',
+    description: '50% OFF on select items',
+    discount: 50,
+    image: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80',
+    expiresIn: 3600, // seconds
+    category: 'women',
+    link: '/women',
+  },
+  {
+    id: 2,
+    title: 'Sports Mega Sale',
+    description: 'Up to 60% OFF on sports wear',
+    discount: 60,
+    image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80',
+    expiresIn: 5400,
+    category: 'men',
+    link: '/men',
+  },
+  {
+    id: 3,
+    title: 'Kids Special',
+    description: '40% OFF on kids collection',
+    discount: 40,
+    image: 'https://images.unsplash.com/photo-1555080874-5199c1d8a64d?auto=format&fit=crop&w=600&q=80',
+    expiresIn: 7200,
+    category: 'kids',
+    link: '/kids',
+  },
+  {
+    id: 4,
+    title: 'Formal Wear Fest',
+    description: 'Premium brands at 45% OFF',
+    discount: 45,
+    image: 'https://images.unsplash.com/photo-1591047990973-2c0699eec82d?auto=format&fit=crop&w=600&q=80',
+    expiresIn: 2700,
+    category: 'men',
+    link: '/men',
+  },
+]
