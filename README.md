@@ -1,9 +1,6 @@
 # 🛍️ Myntra Clone — Premium E-Commerce Frontend
 
 An ultra-high-fidelity, production-grade **Myntra Clone** built with React, Vite, and Tailwind CSS. This frontend architecture features lazy loading code splitting, aspect ratio cumulative layout shift (CLS) protection, debounced search highlighting, dynamic variants gallery selectors, Zara-style magnifiers, and advanced checkout simulations.
-
-# 🛍️ Myntra Clone
-
 A fully responsive and modern **Myntra Clone E-Commerce Website** built using HTML, CSS, and JavaScript.  
 This project replicates the core UI and shopping experience of Myntra including product filtering, wishlist, cart management, categories, and order confirmation.
 
@@ -196,3 +193,20 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```bash
    npm run build
    ```
+   # 👨‍💻 Developed By
+
+## Harshit Raj
+
+📧 Email: harshitraj7304@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/harshit-raj-7304/  
+💻 GitHub: https://github.com/harshitraj7304  
+
+---
+
+# 🌟 Connect With Me
+
+If you like this project, feel free to connect with me on LinkedIn and check out more projects on GitHub.
+
+⭐ Don’t forget to star the repository if you found it helpful.
+
+   
