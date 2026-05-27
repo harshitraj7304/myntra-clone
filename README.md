@@ -93,7 +93,9 @@ This project replicates the core UI and shopping experience of Myntra including 
 ## Harshit Raj
 
 📧 Email: harshitraj7304845705@gmail.com  
+
 🔗 LinkedIn: https://linkedin.com/in/harshit-raj-35a657229
+
 💻 GitHub: https://github.com/harshitraj7304  
 
 ---
